@@ -1,0 +1,20 @@
+.service-card{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.service-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.service-icon{
+    min-width: 70px;
+    min-height: 70px;
+    font-size: 2rem;
+    background-color: var(--bs-grape);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    border-radius: 100px;
+}

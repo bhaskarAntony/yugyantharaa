@@ -1,0 +1,13 @@
+header .nav-link{
+    color: #000 !important;
+}
+header .nav-link:hover{
+    color: #193add !important;
+    cursor: pointer;
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 100;
+}

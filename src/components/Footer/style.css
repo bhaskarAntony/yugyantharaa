@@ -1,0 +1,6 @@
+footer{
+    background-color: #141414;
+}
+.bg-primary{
+    background-color: var(--bs-grape) !important;
+}
