@@ -36,7 +36,7 @@ function Navigation() {
           <a class="nav-link fs-5" aria-disabled="true">Contact us</a>
         </li>
       </ul>
-       <Button variant='contained' className='p-3'>Create Account</Button>
+       <Button variant='contained' className='p-3 btn-main'>Create Account</Button>
     </div>
   </div>
 </nav>

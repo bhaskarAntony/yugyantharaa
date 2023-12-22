@@ -4,7 +4,7 @@ import { Button } from '@mui/material'
 
 function About() {
   return (
-    <section className='about container-fluid p-3 p-md-4 p-lg-5'>
+    <section className='about container-fluid p-3 p-md-4 p-lg-5 bg-light'>
         <div className="row align-items-center">
             <div className="col-12 col-sm-12 col-md-5 col-lg-5">
                 <div className="about-left">
